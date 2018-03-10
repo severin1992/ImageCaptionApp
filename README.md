@@ -11,7 +11,7 @@ For a more complete documentation of our model architecture feel free to visit o
 
 ---
 Instructions: <br>
-I can recommend to install Anaconda and create a virtual environment for trying out the web app. You must have Keras (2.0 or higher) installed with either the TensorFlow or Theano backend. You also need scikit-learn, Pandas, NumPy, and Matplotlib. <br>
+I can recommend to install Anaconda and create a virtual environment with Python 2 kernel for trying out the web app. You must have Keras (2.0 or higher) installed with either the TensorFlow or Theano backend. You also need scikit-learn, Pandas, NumPy, and Matplotlib. <br>
 Furthermore, you will need to install the dash packages: <br>
 ```
 pip install dash==0.19.0  # The core dash backend
