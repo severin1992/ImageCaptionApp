@@ -27,5 +27,5 @@ Clone the github repository to a local folder and activate your virtual environm
 
 ---
 Sources: <br>
-[1] Jason Brownlee. How to Develop a Deep Learning Photo Caption Generator from Scratch, November 2017.
+[1] Jason Brownlee. [How to Develop a Deep Learning Photo Caption Generator from Scratch](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/), November 2017. <br>
 [2] Marc Tanti, Albert Gatt, and Kenneth P. Camilleri. Where to put the Image in an Image Caption Generator. arXiv preprint arXiv:1703.09137, 2017.
