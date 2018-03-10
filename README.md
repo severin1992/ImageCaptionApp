@@ -1,10 +1,15 @@
 # ImageCaptionApp
-Based on [1][2] I developed an image caption generator web app build with the dash framework in python. Just drag
+Based on [1][2] I developed an image caption generator web app build with the dash framework in python. Just drag and drop or select a picture and the Web App takes care of the rest. 
+For a more complete documentation of our model architecture feel free to visit our <a href=" https://humboldt- wi.github.io/blog/research/seminar/07imagecaptioning/"> blog post </a>.
+
+---
 ![plain](captionwebapp1.png)
+
+---
 ![filled](captionwebapp2.png)
 
 ---
-Instructions
+Instructions:
 
 ---
 Sources: <br>
